@@ -39,11 +39,11 @@ public class Vehicle {
 		return m_colour;
 	}
 
-	public long getTareWeight() {
+	public long getTare_weight() {
 		return m_tare_weight;
 	}
 
-	public long getGrossMass() {
+	public long getGross_mass() {
 		return m_gross_mass;
 	}
 
